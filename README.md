@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeehLouis
 - 👀 I’m interested in all things technology, all the newest hardware you name it.
-- 🌱 I’m currently learning machine learning, creating solutions to answer some of my curiosity.
+- 🌱 I’m currently learning Machine Learning, creating solutions to answer some of my curiosity.
 
 
 <!---
